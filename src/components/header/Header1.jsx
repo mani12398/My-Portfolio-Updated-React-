@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import "./header.css"
+import "./header1.css"
 
-const Header = () => {
+const Header1 = () => {
     /*Toggle Menu*/
     const [Toggle, showMenu] = useState(false);
     return (
@@ -58,4 +58,4 @@ const Header = () => {
     )
 }
 
-export default Header
+export default Header1
