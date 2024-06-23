@@ -1,27 +1,8 @@
 import React from 'react'
 import {
-    DiCpp,
-    DiCsharp,
-    DiC,
-    DiJava,
+   
     DiHtml5,
-    DiCss3,
-    DiJavascript1,
-    DiDart,
-    DiPython,
-    DiFlutter,
-    DiReact,
-    DiWordpress,
-    DiShopify,
-    DiSeo,
-    DiNodejsSmall,
-    DiBootstrap,
-    DiGit,
-    DiGithub,
-    DiMysql,
-    DiMssql,
-    DiMongodb,
-    DiFirebase,
+   
 } from 'react-icons/di';
 
 const ProgrammingLanguages = () => {
