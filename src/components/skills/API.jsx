@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Backend = () => {
+const API = () => {
   return (
     <div className="skills__content">
-        <h3 className="skills__title">Backend Stack</h3>
+        <h3 className="skills__title">Frontend Stack</h3>
         <div className="skills__box">
             <div className="skills__group">
 
@@ -11,7 +11,7 @@ const Backend = () => {
                     <i className='bx bx-badge-check'></i>
                     <div>
                         <h3 className="skills__name">HTML</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <span className="skills__level">Basic</span>
                     </div>
                 </div>
 
@@ -66,4 +66,4 @@ const Backend = () => {
   )
 }
 
-export default Backend
+export default API
