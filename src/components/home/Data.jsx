@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const Data1 = () => {
+const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">Abdur Rehman
@@ -82,4 +82,4 @@ const Data1 = () => {
   )
 }
 
-export default Data1
+export default Data

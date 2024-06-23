@@ -1,22 +1,22 @@
 import React from 'react'
-import "./home1.css";
-import Social1 from './Social1';
-import Data1 from './Data1';
-import ScrollDown1 from './ScrollDown1';
+import "./home.css";
+import Social from './Social';
+import Data from './Data';
+import ScrollDown from './ScrollDown';
 
-const Home1 = () => {
+const Home = () => {
   return (
     <section className="homw section" id="home">
         <div className="home__container container grid">
             <div className="home__content grid">
-                <Social1/>
+                <Social/>
                 <div className="home__img"></div>
-                <Data1/>
+                <Data/>
             </div>
-            <ScrollDown1/>
+            <ScrollDown/>
         </div>
     </section>
   )
 }
 
-export default Home1
+export default Home

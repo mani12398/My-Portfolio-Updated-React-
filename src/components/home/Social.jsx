@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Social1 = () => {
+export const Social = () => {
     return (
         <div className="home__social">
             <a href="https://www.linkedin.com/in/muhammad-abdur-rehman-fs20bscs/" target="_blank" rel="noreferrer" className="home__social-icon">
@@ -20,4 +20,4 @@ export const Social1 = () => {
     );
 };
 
-export default Social1;
+export default Social;

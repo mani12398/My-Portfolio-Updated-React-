@@ -1,6 +1,6 @@
 import React from "react";
 
-function ScrollDown1() {
+function ScrollDown() {
   return (
     <div className="home__scroll">
       <a href="#about" className="home__scroll-button button--flex">
@@ -46,4 +46,4 @@ function ScrollDown1() {
   );
 }
 
-export default ScrollDown1;
+export default ScrollDown;

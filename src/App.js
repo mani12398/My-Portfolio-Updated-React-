@@ -1,7 +1,7 @@
 import React from 'react';
 import "./App.css";
-import Header1 from './components/header/Header1';
-import Home1 from './components/home/Home1';
+import Header from './components/header/Header';
+import Home from './components/home/Home';
 import About from './components/about/About';
 import Skills from './components/skills/Skills';
 
@@ -9,9 +9,9 @@ const App = () =>
 {
   return(
     <>
-    <Header1 />
+    <Header />
     <main className='main'>
-      <Home1/>
+      <Home/>
       <About/>
       <Skills/>
     </main>
