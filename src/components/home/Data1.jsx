@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const Data1 = () => {
   return (
     <div className="home__data">
@@ -55,7 +56,8 @@ const Data1 = () => {
         </svg>
       </h1>
       <h3 className="home__subtitle">Software Developer</h3>
-      <p className="home__description">As a Computer Scientist and Tech enthusiast, I'm eager to grow my skills in Information Technology. I've developed various software's using languages like C++, C#, and Flutter for Mobile Apps. I've also worked on Web Projects and I'm keen to expand my horizons with the guidance of a mentor.</p>
+      <p className="home__description">
+        🔍 As a Computer Scientist and Tech enthusiast, I'm eager to grow my skills in Information Technology. I've developed various software's using languages like C++, C#, and Flutter for Mobile Apps. I've also worked on Web Projects and I'm keen to expand my horizons with the guidance of a mentor.</p>
       <a href="#contact" className="button button--flex">
         Say Hello
         <svg
