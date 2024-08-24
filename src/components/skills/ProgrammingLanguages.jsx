@@ -1,9 +1,5 @@
 import React from 'react'
-import {
-   
-    DiHtml5,
-   
-} from 'react-icons/di';
+import { DiHtml5 } from 'react-icons/di';
 
 const ProgrammingLanguages = () => {
     return (
